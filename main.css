@@ -6,6 +6,14 @@ body {
 	padding: 0;
 }
 
+@font-face {
+  font-family: 'ScriptMTBold';
+  src: url('ScriptMTBold.eot?#iefix') format('embedded-opentype'),  url('ScriptMTBold.woff') format('woff'), url('ScriptMTBold.ttf')  format('truetype'), url('ScriptMTBold.svg#ScriptMTBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 video {
 	position: fixed;
 	width: 100%;
